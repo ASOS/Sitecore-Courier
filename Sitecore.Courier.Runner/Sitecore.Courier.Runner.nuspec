@@ -22,5 +22,6 @@
     <file src="Bin\Release\Sitecore.Logging.dll" target="" />
     <file src="Bin\Release\Sitecore.Update.dll" target="" />
     <file src="Bin\Release\Sitecore.Zip.dll" target="" />
+    <file src="Bin\Release\CommandLine.dll" target="" />
   </files>
 </package>
