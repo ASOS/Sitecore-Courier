@@ -7,11 +7,6 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Sitecore courier</description>
 	<tags>Sitecore Courier</tags>
-  <dependencies>
-      <group targetFramework="net45">
-        <dependency id="ASOS.Sitecore.Binaries" version="8.1.151003" />
-      </group>
-    </dependencies>
   </metadata>
   <files>
     <file src="Bin\Release\Sitecore.Courier.dll" target="" />
